@@ -15,3 +15,7 @@ This repository includes both **real-time control** and **simulation** scripts f
 - MATLAB 
 - Motion capture system
 - Parrot Bebop 2 drone
+
+## 🎥 Demo Video
+
+Watch the experimental results here: [YouTube Video](https://www.youtube.com/watch?v=NwU5WyD6K1o)
